@@ -80,7 +80,7 @@ void Graph::A_star_search(char init, char goal){
 
 int main()
 {
-    cout<<"Done by Tanya Gupta, UE183109\n\n";
+    cout<<"Done by Tanya Gupta\n\n";
     Graph g;
     vector<pci>Nodes;//stores the value of each node
     Nodes= {MP('A',10),MP('B',8),MP('C',5),MP('D',7),MP('E',3),MP('F',6),MP('G',5),MP('H',3),MP('I',1),MP('J',0)};
